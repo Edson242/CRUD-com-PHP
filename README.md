@@ -27,28 +27,17 @@ Este projeto é uma aplicação simples de gerenciamento de usuários, construí
 O projeto possui a seguinte estrutura de diretórios:
 
 /root
-``│
-<br>
-├── /src
-<br>
-│   ├── /controllers       # Controladores responsáveis pelas ações (login, cadastro, etc.)
-<br>
-│   ├── /db                # Arquivos de conexão com o banco de dados
-<br>
-│   ├── /js                # Scripts JavaScript
-<br>
-│   └── /views             # Arquivos de visualização (HTML)
-<br>
-│
-<br>
-├── /assets                # Imagens e outros recursos estáticos
-<br>
-│
-<br>
-├── edit.php               # Página edição com PHP
-<br>
-└── index.php              # Página inicial da aplicação
-<br>``
+│  
+├── /src  
+│   ├── /controllers       # Controladores responsáveis pelas ações (login, cadastro, etc.)  
+│   ├── /db                # Arquivos de conexão com o banco de dados  
+│   ├── /js                # Scripts JavaScript  
+│   └── /views             # Arquivos de visualização (HTML)  
+│  
+├── /assets                # Imagens e outros recursos estáticos  
+│  
+├── edit.php               # Página edição com PHP  
+└── index.php              # Página inicial da aplicação  
 
 ## Como Rodar a Aplicação
 
