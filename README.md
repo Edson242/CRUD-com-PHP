@@ -26,7 +26,7 @@ Este projeto é uma aplicação simples de gerenciamento de usuários, construí
 
 O projeto possui a seguinte estrutura de diretórios:
 
-/root
+/root  
 │  
 ├── /src  
 │   ├── /controllers       # Controladores responsáveis pelas ações (login, cadastro, etc.)  
