@@ -26,7 +26,7 @@ Este projeto é uma aplicação simples de gerenciamento de usuários, construí
 
 O projeto possui a seguinte estrutura de diretórios:
 
-/root
+```/root
 │
 ├── /src
 │   ├── /controllers       # Controladores responsáveis pelas ações (login, cadastro, etc.)
@@ -37,7 +37,7 @@ O projeto possui a seguinte estrutura de diretórios:
 ├── /assets                # Imagens e outros recursos estáticos
 │
 ├── edit.php               # Página edição com PHP
-└── index.php              # Página inicial da aplicação
+└── index.php              # Página inicial da aplicação```
 
 ## Como Rodar a Aplicação
 
